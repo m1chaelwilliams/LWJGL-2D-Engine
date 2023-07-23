@@ -1,18 +1,17 @@
-## Getting Started
+# LWJGL 2D Game Engine
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Hi, this is a simple 2D engine I've been working on. Right now it has the following features:
 
-## Folder Structure
+- 2D Coordinate System
+- Sprite Rendering
+- Cropping/Subsurfacing
+- Flipping Surfaces
+- Scaling Surfaces
+- Resizing Surfaces
+- Rect Collision System
+- Sprite Meta Class
+- Font Rendering using a Font Glyph/Atlas
 
-The workspace contains two folders by default, where:
+I plan to make this 100% free and open source!
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Thanks for stopping by!
